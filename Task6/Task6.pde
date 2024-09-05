@@ -37,5 +37,6 @@ void draw(){
     colorR = (int)random(255);
     colorG = (int)random(255);
     colorB = (int)random(255);
+  // made random(); into (int) so it could work with the variables colorR,colorG,colorB
   }
 }
