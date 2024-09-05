@@ -4,4 +4,4 @@ int sumOfTwo;
 
 float sumOfDiv;
 
-String Message;
+String message;
